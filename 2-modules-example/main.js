@@ -1,5 +1,5 @@
 const arithmeticModule = require('./module-exports');
-const someData = require('./default-exports').default;
+const someData = require('./default-exports');
 
 const { a, b } = someData;
 

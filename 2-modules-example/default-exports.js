@@ -3,4 +3,4 @@ const someData = {
   b: 1,
 };
 
-exports.default = someData;
+module.exports = someData;

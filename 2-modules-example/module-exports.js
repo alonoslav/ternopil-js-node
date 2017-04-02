@@ -6,3 +6,7 @@ module.exports = {
   add,
   sub,
 };
+
+// the same as
+// exports.add = ...
+// this.sub = ...
